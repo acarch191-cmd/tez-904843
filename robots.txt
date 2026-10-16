@@ -1,2 +1,4 @@
 User-agent: *
 Allow: /
+
+Sitemap: https://tez-904843.onrender.com/sitemap.xml
